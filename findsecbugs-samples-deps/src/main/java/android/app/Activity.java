@@ -7,6 +7,10 @@ import android.view.View;
 public class Activity extends ContextThemeWrapper {
 
 
+    private void testMethod(){
+
+    }
+
     protected void onCreate(Bundle savedInstanceState) {
 
     }
